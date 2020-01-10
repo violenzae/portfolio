@@ -9,3 +9,10 @@ body {
 .col-md-8 h3 {
   font-style: italic;
 }
+
+.panel-body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
