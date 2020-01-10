@@ -16,3 +16,7 @@ body {
   margin-right: auto;
   padding-bottom: 20px;
 }
+
+.panel-body {
+background-color: rgb(212, 201, 205);
+}
