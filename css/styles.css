@@ -20,3 +20,12 @@ body {
 .panel-body {
 background-color: rgb(212, 201, 205);
 }
+
+a {
+  background-color: black;
+  color: rgb(190, 185, 176);
+}
+
+a:hover {
+  color:red
+}
