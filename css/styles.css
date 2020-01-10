@@ -29,3 +29,13 @@ a {
 a:hover {
   color:red
 }
+
+#bold {
+  font-weight: bold;
+}
+
+.jumbotron {
+  color: antiquewhite;
+  background-color: rgb(83, 63, 63);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
