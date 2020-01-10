@@ -12,6 +12,7 @@ _This is an HTML page that lists all projects I've completed at Epicodus as of t
 
 * _Clone or download from Github Repository._
 * _Open in preferred internet browser._
+*_Alternatively, access from https://violenzae.github.io/portfolio/_
 
 ## Known Bugs
 
